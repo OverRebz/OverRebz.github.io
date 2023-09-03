@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>个人博客</title>
   
-  
+  <subtitle>没有什么描述1</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>OverRebz</name>
     
   </author>
   
@@ -36,7 +36,7 @@
     <link href="http://example.com/post/0.html"/>
     <id>http://example.com/post/0.html</id>
     <published>2023-09-01T08:29:30.489Z</published>
-    <updated>2023-09-03T04:40:49.794Z</updated>
+    <updated>2023-09-03T05:10:37.492Z</updated>
     
     
     
