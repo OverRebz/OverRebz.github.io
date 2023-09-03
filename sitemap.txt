@@ -1,4 +1,7 @@
+http://example.com/post/53088.html
 http://example.com/post/0.html
+http://example.com/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86.html
 http://example.com/post/62824.html
 http://example.com/
 http://example.com/tags/%E6%B5%8B%E8%AF%95%E7%B1%BB/
+http://example.com/tags/%E7%AE%80%E5%8E%86/
