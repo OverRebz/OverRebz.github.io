@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>个人博客</title>
+  <title>OverRebz个人博客</title>
   
-  <subtitle>没有什么描述1</subtitle>
+  <subtitle>一个普通的人</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-03T07:06:06.975Z</updated>
+  <updated>2023-09-03T07:20:21.163Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习情况总结</title>
+    <link href="http://example.com/post/51452.html"/>
+    <id>http://example.com/post/51452.html</id>
+    <published>2023-09-03T07:20:07.000Z</published>
+    <updated>2023-09-03T07:20:21.163Z</updated>
+    
+    
+    
+    
+    
+    <category term="报告" scheme="http://example.com/tags/%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>个人简历</title>
